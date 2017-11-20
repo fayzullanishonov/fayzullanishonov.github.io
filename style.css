@@ -1,0 +1,48 @@
+body{
+	background-image:url();
+background-color:lightgrey;
+background-size:;
+margin: 0;
+}
+
+h1{
+	font-size: 20pt;
+	font-family: verdana;
+	color: green;
+}
+p {
+	font-family: arial;
+	color: black;
+}
+nav{
+	background-color:grey;
+	top:0px;
+	position: fixed;
+	width: 100%;
+
+}
+nav li{
+	display: inline;
+	color:white;
+	margin-left:20px;
+
+}
+nav a{
+	color:black ;
+	text-decoration: none;
+	height: 20px;
+	line-height: 20px;
+	font-family: verdana;
+}
+
+.fayzi{
+	padding-top: 45px;
+	margin-left:20px;
+}
+.f1{
+	text-align: center;
+
+}
+
+	
+
